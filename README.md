@@ -1,3 +1,3 @@
 # jmh-lab
 
-OpenJDK jmh tool sample project
+[OpenJDK jmh](http://openjdk.java.net/projects/code-tools/jmh/) tool sample project
